@@ -3,28 +3,7 @@ A simple implementation of a blockchain in Python, complete with proof of work, 
 
 A complete blockchain implementation with 1 billion EMPEROR tokens, built in Python.
 
-## Features
-
-- 🏛️ 1 billion EMPEROR token supply
-- ⛏️ Proof-of-Work consensus
-- 👛 Secure wallet system
-- 🔗 Immutable transaction ledger
-- ✅ Complete validation system
-- 🐍 Pure Python implementation
-
-## Testing
- **Create virtual environment**:
-   ```bash
-   python -m venv emperor-env
-   source emperor-env/bin/activate  # On Windows: emperor-env\Scripts\activate
-
-## Installation
-
-Install dependencies: pip install -r requirements.txt
-
-Run the blockchain: python main.py
-
-## Structure Tree:
+## Structure Tree
 emperor-blockchain/
 ├── src/
 │   ├── blockchain/
@@ -59,3 +38,29 @@ emperor-blockchain/
 ├── main.py
 ├── deploy_contracts.py
 └── README.md
+
+## Features
+
+- 🏛️ 1 billion EMPEROR token supply
+- ⛏️ Proof-of-Work consensus
+- 👛 Secure wallet system
+- 🔗 Immutable transaction ledger
+- ✅ Complete validation system
+- 🐍 Pure Python implementation
+
+
+
+## Installation
+
+Install dependencies: pip install -r requirements.txt
+
+Run the blockchain: python main.py
+
+
+## Testing
+ **Create virtual environment**:
+   ```bash
+   python -m venv emperor-env
+   source emperor-env/bin/activate  # On Windows: emperor-env\Scripts\activate.
+
+
