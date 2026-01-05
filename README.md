@@ -3,42 +3,6 @@ A simple implementation of a blockchain in Python, complete with proof of work, 
 
 A complete blockchain implementation with 1 billion EMPEROR tokens, built in Python.
 
-## Structure Tree
-emperor-blockchain/
-├── src/
-│   ├── blockchain/
-│   │   ├── __init__.py
-│   │   ├── block.py
-│   │   ├── blockchain.py
-│   │   ├── transaction.py
-│   │   ├── wallet.py
-│   │   ├── consensus.py
-│   │   └── evm/
-│   │       ├── __init__.py
-│   │       ├── evm.py
-│   │       ├── bytecode.py
-│   │       ├── opcodes.py
-│   │       ├── contract.py
-│   │       └── solidity_compiler.py
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   ├── crypto.py
-│   │   └── helpers.py
-│   └── tests/
-│       ├── __init__.py
-│       ├── test_blockchain.py
-│       ├── test_transaction.py
-│       ├── test_wallet.py
-│       └── test_evm.py
-├── contracts/
-│   ├── EmperorToken.sol
-│   ├── SimpleStorage.sol
-│   └── compiled/
-├── requirements.txt
-├── main.py
-├── deploy_contracts.py
-└── README.md
-
 ## Features
 
 - 🏛️ 1 billion EMPEROR token supply
