@@ -1,0 +1,10 @@
+cryptography==42.0.5
+requests==2.31.0
+flask==3.0.0
+pycryptodome==3.19.1
+web3==6.15.1
+eth-typing==3.5.1
+eth-utils==4.0.0
+eth-keys==0.5.1
+rlp==4.0.0
+hexbytes==1.0.0
