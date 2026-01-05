@@ -1,4 +1,4 @@
-# Emperor-Blockchain-
+# Emperor-Blockchain- Test Layer 0
 A simple implementation of a blockchain in Python, complete with proof of work, transactions, and hashing. It can be used as a starting point for building more complex blockchain applications.
 
 A complete blockchain implementation with 1 billion EMPEROR tokens, built in Python.
